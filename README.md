@@ -1,7 +1,7 @@
 # HamletIDs
 Generates practice Hamlet IDs for the Middlesex junior english exam.
 
-When prommpted, enter the minimum number of lines the ID should contain. Based on practice ids handed out in class, I suggest around 4 lines. 
+When prompted, enter the minimum number of lines the ID should contain. Based on practice ids handed out in class, I suggest around 4 lines. 
 The program will randomly generate a passage ID from any character in Hamlet.
 
 **How to check answers**: Use Ctrl + F on the text file to locate the passage in the text. Currently, the program itself can't provide the answer.
